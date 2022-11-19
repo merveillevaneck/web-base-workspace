@@ -9,5 +9,18 @@
  */
 
 {
+    "div": {
+        "scope": "",
+        "version": "",
+        "defaultScope": "kilo-lab.web-base",
+        "mainFile": "index.ts",
+        "rootDir": "web-base/div",
+        "config": {
+            "teambit.react/react": {},
+            "teambit.envs/envs": {
+                "env": "teambit.react/react"
+            }
+        }
+    },
     "$schema-version": "15.0.0"
 }
